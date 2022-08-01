@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgiGB a newbie
+- 👋 Hi, I’m @GeorgiGB
 - 👀 I’m interested into learn in Java, Python, CSS, Android, and the newest technologies.
 - 🌱 I’m currently learning ... a lot of thinks
 - 💞️ I’m looking to collaborate on everythink to learn
