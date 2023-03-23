@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GeorgiGB
-- 👀 I’m interested into learn in Java, Python, CSS, Android, and the newest technologies.
-- 🌱 I’m currently learning ... a lot of thinks
-- 💞️ I’m looking to collaborate on everythink to learn
--- Actually I'm developing on Flutter Apps.
+- 👀 Learning Flutter, Blazor, Vue, Android, and the newest technologies.
+- 💞️ I’m looking to collaborate on everythink
+-- Was developing Flutter Apps.
+-- Developing Blazor Websites
 
 <!---
 GeorgiGB/GeorgiGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
