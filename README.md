@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GeorgiGB
 - 👀 Learning Flutter, Blazor, Vue, Android, and the newest technologies.
-- 💞️ I’m looking to collaborate on everythink
 -- Was developing Flutter Apps.
 -- Developing Blazor Websites
 
