@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgiGB
-- 👀 Learning Flutter, Blazor, Vue, Android, and the newest technologies.
-- Was developing Flutter Apps.
-- Developing Blazor Websites.
+- 👀 Learning Angular & Docker.
+- Was developing Flutter Apps & Blazor Websites.
+- Developing with Angular 12 and Dockering everything.
 
 <!---
 GeorgiGB/GeorgiGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
