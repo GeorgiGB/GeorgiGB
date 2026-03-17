@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GeorgiGB
-- 👀 Learning Angular & Docker.
-- Was developing Flutter Apps & Blazor Websites.
-- Developing with Angular 12 and Dockering everything.
+- 👋 Hi, I’m George
+- 👀 Im actually learning Python & Docker non-stop.
+- Was developing Flutter Apps, Blazor Websites, Angular 12 reactive pages.
+- Dockering everything.
 
 <!---
 GeorgiGB/GeorgiGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
